@@ -12,6 +12,8 @@ runtest.bat - for **Windows**
 
 runtest.sh - for **Linux**
 
+runtestMacOS.sh - for **MacOS**
+
 Alternatively you can open *Petstore.jmx* script located in .\devchallenge.it-qa-1\testplan in JMeter and manualy run the test.
 To view results you can use View Result Tree.
 # Results viewing 
