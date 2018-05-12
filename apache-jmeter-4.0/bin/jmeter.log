@@ -1,0 +1,113 @@
+2018-05-12 15:02:58,272 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2018-05-12 15:02:58,290 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2018-05-12 15:02:58,291 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2018-05-12 15:02:58,297 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2018-05-12 15:02:58,297 INFO o.a.j.JMeter: Version 4.0 r1823414
+2018-05-12 15:02:58,297 INFO o.a.j.JMeter: java.version=1.8.0_161
+2018-05-12 15:02:58,297 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-05-12 15:02:58,297 INFO o.a.j.JMeter: os.name=Windows 10
+2018-05-12 15:02:58,297 INFO o.a.j.JMeter: os.arch=amd64
+2018-05-12 15:02:58,297 INFO o.a.j.JMeter: os.version=10.0
+2018-05-12 15:02:58,297 INFO o.a.j.JMeter: file.encoding=Cp1251
+2018-05-12 15:02:58,297 INFO o.a.j.JMeter: Max memory     =1073741824
+2018-05-12 15:02:58,298 INFO o.a.j.JMeter: Available Processors =4
+2018-05-12 15:02:58,301 INFO o.a.j.JMeter: Default Locale=English (EN)
+2018-05-12 15:02:58,302 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2018-05-12 15:02:58,302 INFO o.a.j.JMeter: JMeterHome=E:\devchallenge.it-qa-1\apache-jmeter-4.0
+2018-05-12 15:02:58,302 INFO o.a.j.JMeter: user.dir  =E:\devchallenge.it-qa-1\apache-jmeter-4.0\bin
+2018-05-12 15:02:58,302 INFO o.a.j.JMeter: PWD       =E:\devchallenge.it-qa-1\apache-jmeter-4.0\bin
+2018-05-12 15:03:02,811 INFO o.a.j.JMeter: IP: 10.0.75.1 Name: DESKTOP-RA7RMRG FullName: DESKTOP-RA7RMRG
+2018-05-12 15:03:03,153 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2018-05-12 15:03:03,168 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2018-05-12 15:03:03,168 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2018-05-12 15:03:03,229 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2018-05-12 15:03:03,952 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-05-12 15:03:03,952 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-05-12 15:03:06,179 WARN o.a.j.g.ObjectTableModel: Header count=13 but classes count=11
+2018-05-12 15:03:06,180 WARN o.a.j.g.ObjectTableModel: Header count=13 but writeFunctor count=11
+2018-05-12 15:03:06,865 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-05-12 15:03:06,866 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-05-12 15:03:06,866 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-05-12 15:03:06,866 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-05-12 15:03:06,866 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2018-05-12 15:03:06,867 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2018-05-12 15:03:07,100 INFO o.a.j.e.KeyToolUtils: Exception checking for keytool existence, will return false, try another way.
+2018-05-12 15:03:07,346 INFO o.a.j.e.KeyToolUtils: keytool found at 'C:\Program Files\Java\jre1.8.0_161\bin\keytool'
+2018-05-12 15:03:07,347 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file E:\devchallenge.it-qa-1\apache-jmeter-4.0\bin\proxyserver.jks
+2018-05-12 15:03:07,434 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jpgc-autostop=0.1, jpgc-graphs-composite=2.0, jpgc-csl=0.1, jpgc-functions=2.0, jpgc-casutg=2.5, jpgc-dummy=0.2, jpgc-filterresults=2.1, jpgc-ffw=2.0, jpgc-httpraw=0.1, jpgc-fifo=0.2, jpgc-graphs-vs=2.0, jpgc-mergeresults=2.1, jpgc-prmctl=0.3, jpgc-perfmon=2.1, jpgc-plugins-manager=0.19, bzm-random-csv=0.6, jpgc-redis=0.2, jpgc-synthesis=2.1, jpgc-tst=2.1, jpgc-csvars=0.1, websocket-samplers=1.1, jpgc-xml=0.1, jmeter-core=4.0, jmeter-ftp=4.0, jmeter-http=4.0, jmeter-jdbc=4.0, jmeter-jms=4.0, jmeter-junit=4.0, jmeter-java=4.0, jmeter-ldap=4.0, jmeter-mail=4.0, jmeter-mongodb=4.0, jmeter-native=4.0, jmeter-tcp=4.0, jmeter-components=4.0, jpgc-standard=2.0]
+2018-05-12 15:03:07,437 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-functions, jpgc-prmctl, jpgc-plugins-manager, jpgc-tst]
+2018-05-12 15:03:07,509 INFO o.a.j.s.FileServer: Default base='E:\devchallenge.it-qa-1\apache-jmeter-4.0\bin'
+2018-05-12 15:03:08,094 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-05-12 15:03:08,095 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2018-05-12 15:03:08,095 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-05-12 15:03:08,095 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-05-12 15:03:12,215 INFO o.a.j.g.a.Load: Loading file: E:\devchallenge.it-qa-1\testplan\Deezer.jmx
+2018-05-12 15:03:12,215 INFO o.a.j.s.FileServer: Set new base='E:\devchallenge.it-qa-1\testplan'
+2018-05-12 15:03:12,364 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2018-05-12 15:03:12,367 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2018-05-12 15:03:12,369 INFO o.a.j.s.SaveService: Using SaveService properties version 4.0
+2018-05-12 15:03:12,371 INFO o.a.j.s.SaveService: Loading file: E:\devchallenge.it-qa-1\testplan\Deezer.jmx
+2018-05-12 15:03:12,373 WARN o.j.r.p.TestPlanAnalyzer: Cannot parse file: E:\devchallenge.it-qa-1\testplan\Deezer.jmx
+java.io.FileNotFoundException: E:\devchallenge.it-qa-1\testplan\Deezer.jmx (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_161]
+	at java.io.FileInputStream.open(Unknown Source) ~[?:1.8.0_161]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_161]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_161]
+	at sun.net.www.protocol.file.FileURLConnection.connect(Unknown Source) ~[?:1.8.0_161]
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(Unknown Source) ~[?:1.8.0_161]
+	at org.apache.xerces.impl.XMLEntityManager.setupCurrentEntity(Unknown Source) ~[xercesImpl-2.11.0.jar:?]
+	at org.apache.xerces.impl.XMLVersionDetector.determineDocVersion(Unknown Source) ~[xercesImpl-2.11.0.jar:?]
+	at org.apache.xerces.parsers.XML11Configuration.parse(Unknown Source) ~[xercesImpl-2.11.0.jar:?]
+	at org.apache.xerces.parsers.XML11Configuration.parse(Unknown Source) ~[xercesImpl-2.11.0.jar:?]
+	at org.apache.xerces.parsers.XMLParser.parse(Unknown Source) ~[xercesImpl-2.11.0.jar:?]
+	at org.apache.xerces.parsers.DOMParser.parse(Unknown Source) ~[xercesImpl-2.11.0.jar:?]
+	at org.apache.xerces.jaxp.DocumentBuilderImpl.parse(Unknown Source) ~[xercesImpl-2.11.0.jar:?]
+	at javax.xml.parsers.DocumentBuilder.parse(Unknown Source) ~[?:1.8.0_161]
+	at org.jmeterplugins.repository.plugins.TestPlanAnalyzer.getNodeListWithClassNames(TestPlanAnalyzer.java:58) ~[jmeter-plugins-manager-0.19.jar:?]
+	at org.jmeterplugins.repository.plugins.TestPlanAnalyzer.analyze(TestPlanAnalyzer.java:32) ~[jmeter-plugins-manager-0.19.jar:?]
+	at org.jmeterplugins.repository.plugins.PluginSuggester.analyzeTestPlan(PluginSuggester.java:51) ~[jmeter-plugins-manager-0.19.jar:?]
+	at org.jmeterplugins.repository.plugins.PluginSuggester.findPluginsToInstall(PluginSuggester.java:44) ~[jmeter-plugins-manager-0.19.jar:?]
+	at org.jmeterplugins.repository.plugins.PluginSuggester.checkAndSuggest(PluginSuggester.java:28) ~[jmeter-plugins-manager-0.19.jar:?]
+	at org.jmeterplugins.repository.logging.LoggerAppender.append(LoggerAppender.java:33) ~[jmeter-plugins-manager-0.19.jar:?]
+	at org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:156) ~[log4j-core-2.10.0.jar:2.10.0]
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:129) ~[log4j-core-2.10.0.jar:2.10.0]
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:120) ~[log4j-core-2.10.0.jar:2.10.0]
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:84) ~[log4j-core-2.10.0.jar:2.10.0]
+	at org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:448) ~[log4j-core-2.10.0.jar:2.10.0]
+	at org.apache.logging.log4j.core.config.LoggerConfig.processLogEvent(LoggerConfig.java:433) ~[log4j-core-2.10.0.jar:2.10.0]
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:417) ~[log4j-core-2.10.0.jar:2.10.0]
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:403) ~[log4j-core-2.10.0.jar:2.10.0]
+	at org.apache.logging.log4j.core.config.AwaitCompletionReliabilityStrategy.log(AwaitCompletionReliabilityStrategy.java:63) ~[log4j-core-2.10.0.jar:2.10.0]
+	at org.apache.logging.log4j.core.Logger.logMessage(Logger.java:146) ~[log4j-core-2.10.0.jar:2.10.0]
+	at org.apache.logging.log4j.spi.AbstractLogger.tryLogMessage(AbstractLogger.java:2163) ~[log4j-api-2.10.0.jar:2.10.0]
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessageTrackRecursion(AbstractLogger.java:2118) ~[log4j-api-2.10.0.jar:2.10.0]
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessageSafely(AbstractLogger.java:2101) ~[log4j-api-2.10.0.jar:2.10.0]
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessage(AbstractLogger.java:2012) ~[log4j-api-2.10.0.jar:2.10.0]
+	at org.apache.logging.log4j.spi.AbstractLogger.logIfEnabled(AbstractLogger.java:1883) ~[log4j-api-2.10.0.jar:2.10.0]
+	at org.apache.logging.slf4j.Log4jLogger.info(Log4jLogger.java:184) ~[log4j-slf4j-impl-2.10.0.jar:2.10.0]
+	at org.apache.jmeter.save.SaveService.loadTree(SaveService.java:421) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:129) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:101) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.LoadRecentProject.doActionAfterCheck(LoadRecentProject.java:67) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.AbstractActionWithNoRunningTest.doAction(AbstractActionWithNoRunningTest.java:45) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:88) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:70) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source) [?:1.8.0_161]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) [?:1.8.0_161]
+	at java.awt.EventQueue.access$500(Unknown Source) [?:1.8.0_161]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_161]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_161]
+	at java.security.AccessController.doPrivileged(Native Method) [?:1.8.0_161]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) [?:1.8.0_161]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) [?:1.8.0_161]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) [?:1.8.0_161]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) [?:1.8.0_161]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source) [?:1.8.0_161]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_161]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_161]
+	at java.awt.EventDispatchThread.run(Unknown Source) [?:1.8.0_161]
+2018-05-12 15:03:12,377 WARN o.a.j.g.a.Load: Error reading file. java.io.FileNotFoundException: E:\devchallenge.it-qa-1\testplan\Deezer.jmx (The system cannot find the file specified)
+2018-05-12 15:03:16,615 INFO o.a.j.g.a.Load: Loading file: E:\devchallenge.it-qa-1\testplan\PetStore.jmx
+2018-05-12 15:03:16,616 INFO o.a.j.s.FileServer: Set new base='E:\devchallenge.it-qa-1\testplan'
+2018-05-12 15:03:16,616 INFO o.a.j.s.SaveService: Loading file: E:\devchallenge.it-qa-1\testplan\PetStore.jmx
+2018-05-12 15:03:17,025 INFO o.a.j.s.FileServer: Set new base='E:\devchallenge.it-qa-1\testplan'
